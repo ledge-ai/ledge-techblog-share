@@ -1,0 +1,12 @@
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:app="http://www.w3.org/2007/app">
+#エントリタイトル
+  <title>{}</title>
+  <author><name>""</name></author>
+  <content type="text/x-markdown">{}</content>
+  <updated>""</updated>
+  <category term="{}"/>
+  <app:control>
+    <app:draft>yes</app:draft>
+  </app:control>
+</entry>
